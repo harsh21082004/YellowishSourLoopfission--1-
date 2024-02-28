@@ -96,5 +96,5 @@ def get_download_url(play_url):
         print(f"Error downloading MP3 audio for {play_url}: {e}")
         return None
 
-if __name__ == "__main__":
-     app.run(debug=True)
+# if __name__ == "__main__":
+#      app.run(debug=True)
